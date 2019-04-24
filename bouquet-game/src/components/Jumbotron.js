@@ -1,5 +1,5 @@
 import React from "react";
-import Background from "../images/test-test.jpg";
+import Background from "../images/flowers-background.jpg";
 
 function Jumbotron() {
     return (
