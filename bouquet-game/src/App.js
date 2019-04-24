@@ -9,10 +9,16 @@ class App extends Component {
 
   state = {
     flowers,
+    idFlowersClicked: [],
+    score : 0,
+    topScore: 0
   }
 
-  handleClickImage = () => {
-    console.log("test");
+  handleClickImage = event => {
+    // console.log("test");
+    const flowerClicked = event.target.attributes.getNamedItem("data-id").value;
+    // console.log(flowerClicked);
+
     this.setState(Shuffle(this.state.flowers));
   }
 
@@ -20,7 +26,10 @@ class App extends Component {
     return (
       <div>
         <Jumbotron />
-        <Navbar />
+        <Navbar 
+          score={this.state.score}
+          topScore={this.state.topScore}
+        />
         <div className="container mt-5 mb-5 text-center">
           {this.state.flowers.map(flower => (
             <FlowerCards
