@@ -14,7 +14,7 @@ class App extends Component {
   state = {
     flowers,
     idFlowersClicked: [],
-    message: "Ready? Click a flower to begin!",
+    message: "Click a flower to begin!",
     finalMessage: "",
     score : 0,
     topScore: 0
