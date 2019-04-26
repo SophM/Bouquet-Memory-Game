@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/Bouquet-Memory-Game/static/js/main.82eb376a.chunk.js",
-    "main.js.map": "/Bouquet-Memory-Game/static/js/main.82eb376a.chunk.js.map",
+    "main.js": "/Bouquet-Memory-Game/static/js/main.c413d3bf.chunk.js",
+    "main.js.map": "/Bouquet-Memory-Game/static/js/main.c413d3bf.chunk.js.map",
     "runtime~main.js": "/Bouquet-Memory-Game/static/js/runtime~main.55395f5a.js",
     "runtime~main.js.map": "/Bouquet-Memory-Game/static/js/runtime~main.55395f5a.js.map",
     "static/js/2.573f7be8.chunk.js": "/Bouquet-Memory-Game/static/js/2.573f7be8.chunk.js",
     "static/js/2.573f7be8.chunk.js.map": "/Bouquet-Memory-Game/static/js/2.573f7be8.chunk.js.map",
     "index.html": "/Bouquet-Memory-Game/index.html",
-    "precache-manifest.894672b6b50d970339bf9f29e5235131.js": "/Bouquet-Memory-Game/precache-manifest.894672b6b50d970339bf9f29e5235131.js",
+    "precache-manifest.9ac9b7876a1d1a11292c96429f6fa06a.js": "/Bouquet-Memory-Game/precache-manifest.9ac9b7876a1d1a11292c96429f6fa06a.js",
     "service-worker.js": "/Bouquet-Memory-Game/service-worker.js"
   }
 }

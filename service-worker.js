@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/Bouquet-Memory-Game/precache-manifest.894672b6b50d970339bf9f29e5235131.js"
+  "/Bouquet-Memory-Game/precache-manifest.9ac9b7876a1d1a11292c96429f6fa06a.js"
 );
 
 self.addEventListener('message', (event) => {
