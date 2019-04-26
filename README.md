@@ -2,7 +2,7 @@
 
 In this project, I built "Bouquet" - a memory game. The player clicks on a flower to start the game. She/he gets a point if she/he clicks on flowers that haven't already been clicked before, making a bouquet of unique flowers!
 
-[Click me to check "Bouquet" out!]()
+[Click me to check "Bouquet" out!](https://sophm.github.io/Bouquet-Memory-Game/)
 
 The game keeps track of the current score and the top score. The top score corresponds to the best score the player got, i.e., the highest number of unique flowers added to the bouquet. "Bouquet" has a responsive layout (see GIF below) and renders well on computers, tablets and mobiles.
 
