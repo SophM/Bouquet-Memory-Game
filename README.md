@@ -33,7 +33,7 @@ render() function to render the page <br><br>
 
 ### Screenshot of the game
 
-![Screenshot of the app](https://github.com/SophM/Bouquet-Memory-Game/blob/master/for-readme/screenshot-of-the-app.png?raw=true);
+![Screenshot of the app](https://github.com/SophM/Bouquet-Memory-Game/blob/master/for-readme/screenshot-of-the-app.png?raw=true)
 
 ---
 
