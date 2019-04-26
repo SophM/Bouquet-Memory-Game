@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/SophM/Bouquet-Memory-Game/static/js/main.82eb376a.chunk.js",
+    "main.js.map": "/SophM/Bouquet-Memory-Game/static/js/main.82eb376a.chunk.js.map",
+    "runtime~main.js": "/SophM/Bouquet-Memory-Game/static/js/runtime~main.57c8010f.js",
+    "runtime~main.js.map": "/SophM/Bouquet-Memory-Game/static/js/runtime~main.57c8010f.js.map",
+    "static/js/2.573f7be8.chunk.js": "/SophM/Bouquet-Memory-Game/static/js/2.573f7be8.chunk.js",
+    "static/js/2.573f7be8.chunk.js.map": "/SophM/Bouquet-Memory-Game/static/js/2.573f7be8.chunk.js.map",
+    "index.html": "/SophM/Bouquet-Memory-Game/index.html",
+    "precache-manifest.4aeea71419e440523c51e389099fd568.js": "/SophM/Bouquet-Memory-Game/precache-manifest.4aeea71419e440523c51e389099fd568.js",
+    "service-worker.js": "/SophM/Bouquet-Memory-Game/service-worker.js"
+  }
+}
